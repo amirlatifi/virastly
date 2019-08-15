@@ -1,2 +1,2 @@
 # Virastly
-Edit Persian (Farsi) text easily.
+Edit Persian (Farsi) texts easily.
